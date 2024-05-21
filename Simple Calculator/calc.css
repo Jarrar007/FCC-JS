@@ -1,0 +1,43 @@
+.container{
+/* 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+    margin-top: 45vh;
+    margin-left: 40vw;
+    
+}
+
+body{
+    background-color: rgb(231, 171, 98);
+}
+
+.paragraph{
+
+    display: flex;
+    gap: 3vw;
+    margin-left: 6vw;
+}
+
+p {
+     font-size: larger;
+     text-decoration: underline;
+}
+
+button{
+
+    cursor: pointer;
+    border-radius: 30px;
+
+}
+
+.sum {
+    margin-left: 7vw;
+}
+
+.clear {
+
+    margin-left: 7vw;
+}
+
